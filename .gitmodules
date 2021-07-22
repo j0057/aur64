@@ -4,3 +4,6 @@
 [submodule "fluent-bit"]
 	path = fluent-bit
 	url = https://aur.archlinux.org/fluent-bit
+[submodule "mrouted"]
+	path = mrouted
+	url = https://aur.archlinux.org/mrouted
