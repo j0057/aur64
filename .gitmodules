@@ -6,37 +6,37 @@
 	url = github.com:j0057/vswitch
 [submodule "fluent-bit"]
 	path = fluent-bit
-	url = https://aur.archlinux.org/fluent-bit
+	url = https://aur.archlinux.org/fluent-bit.git
 [submodule "mrouted"]
 	path = mrouted
-	url = https://aur.archlinux.org/mrouted
+	url = https://aur.archlinux.org/mrouted.git
 [submodule "direnv"]
 	path = direnv
-	url = https://aur.archlinux.org/direnv
+	url = https://aur.archlinux.org/direnv.git
 [submodule "vscodium-bin"]
 	path = vscodium-bin
-	url = https://aur.archlinux.org/vscodium-bin
+	url = https://aur.archlinux.org/vscodium-bin.git
 [submodule "python35"]
 	path = python35
-	url = https://aur.archlinux.org/python35
+	url = https://aur.archlinux.org/python35.git
 [submodule "python36"]
 	path = python36
-	url = https://aur.archlinux.org/python36
+	url = https://aur.archlinux.org/python36.git
 [submodule "python37"]
 	path = python37
-	url = https://aur.archlinux.org/python37
+	url = https://aur.archlinux.org/python37.git
 [submodule "python38"]
 	path = python38
-	url = https://aur.archlinux.org/python38
+	url = https://aur.archlinux.org/python38.git
 [submodule "minecraft-launcher"]
 	path = minecraft-launcher
-	url = https://aur.archlinux.org/minecraft-launcher
+	url = https://aur.archlinux.org/minecraft-launcher.git
 [submodule "teams"]
 	path = teams
-	url = https://aur.archlinux.org/teams
+	url = https://aur.archlinux.org/teams.git
 [submodule "zoom"]
 	path = zoom
-	url = https://aur.archlinux.org/zoom
+	url = https://aur.archlinux.org/zoom.git
 [submodule "apachedirectorystudio"]
 	path = apachedirectorystudio
-	url = https://aur.archlinux.org/apachedirectorystudio
+	url = https://aur.archlinux.org/apachedirectorystudio.git
