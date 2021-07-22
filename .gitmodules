@@ -16,3 +16,6 @@
 [submodule "python35"]
 	path = python35
 	url = https://aur.archlinux.org/python35
+[submodule "python36"]
+	path = python36
+	url = https://aur.archlinux.org/python36
