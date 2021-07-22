@@ -34,3 +34,6 @@
 [submodule "teams"]
 	path = teams
 	url = https://aur.archlinux.org/teams
+[submodule "zoom"]
+	path = zoom
+	url = https://aur.archlinux.org/zoom
