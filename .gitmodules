@@ -37,3 +37,6 @@
 [submodule "zoom"]
 	path = zoom
 	url = https://aur.archlinux.org/zoom
+[submodule "apachedirectorystudio"]
+	path = apachedirectorystudio
+	url = https://aur.archlinux.org/apachedirectorystudio
