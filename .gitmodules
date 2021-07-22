@@ -1,0 +1,3 @@
+[submodule "pacbuild"]
+	path = pacbuild
+	url = github.com:j0057/pacbuild
