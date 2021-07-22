@@ -28,3 +28,6 @@
 [submodule "python38"]
 	path = python38
 	url = https://aur.archlinux.org/python38
+[submodule "minecraft-launcher"]
+	path = minecraft-launcher
+	url = https://aur.archlinux.org/minecraft-launcher
