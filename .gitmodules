@@ -10,3 +10,6 @@
 [submodule "direnv"]
 	path = direnv
 	url = https://aur.archlinux.org/direnv
+[submodule "vscodium-bin"]
+	path = vscodium-bin
+	url = https://aur.archlinux.org/vscodium-bin
