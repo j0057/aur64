@@ -1,3 +1,6 @@
 [submodule "pacbuild"]
 	path = pacbuild
 	url = github.com:j0057/pacbuild
+[submodule "fluent-bit"]
+	path = fluent-bit
+	url = https://aur.archlinux.org/fluent-bit
