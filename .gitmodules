@@ -7,3 +7,6 @@
 [submodule "mrouted"]
 	path = mrouted
 	url = https://aur.archlinux.org/mrouted
+[submodule "direnv"]
+	path = direnv
+	url = https://aur.archlinux.org/direnv
