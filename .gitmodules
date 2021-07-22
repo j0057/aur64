@@ -13,3 +13,6 @@
 [submodule "vscodium-bin"]
 	path = vscodium-bin
 	url = https://aur.archlinux.org/vscodium-bin
+[submodule "python35"]
+	path = python35
+	url = https://aur.archlinux.org/python35
