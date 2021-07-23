@@ -10,6 +10,9 @@
 [submodule "mrouted"]
 	path = mrouted
 	url = https://aur.archlinux.org/mrouted.git
+[submodule "cni-plugin-dnsname"]
+	path = cni-plugin-dnsname
+	url = https://aur.archlinux.org/cni-plugin-dnsname.git
 [submodule "direnv"]
 	path = direnv
 	url = https://aur.archlinux.org/direnv.git
