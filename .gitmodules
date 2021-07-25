@@ -43,3 +43,6 @@
 [submodule "apachedirectorystudio"]
 	path = apachedirectorystudio
 	url = https://aur.archlinux.org/apachedirectorystudio.git
+[submodule "sbupdate-git"]
+	path = sbupdate-git
+	url = https://aur.archlinux.org/sbupdate-git.git
