@@ -46,3 +46,6 @@
 [submodule "sbupdate-git"]
 	path = sbupdate-git
 	url = https://aur.archlinux.org/sbupdate-git.git
+[submodule "azure-functions-core-tools-bin"]
+	path = azure-functions-core-tools-bin
+	url = https://aur.archlinux.org/azure-functions-core-tools-bin.git
