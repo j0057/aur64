@@ -49,3 +49,6 @@
 [submodule "azure-functions-core-tools-bin"]
 	path = azure-functions-core-tools-bin
 	url = https://aur.archlinux.org/azure-functions-core-tools-bin.git
+[submodule "visual-studio-code-bin"]
+	path = visual-studio-code-bin
+	url = https://aur.archlinux.org/visual-studio-code-bin.git
