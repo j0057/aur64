@@ -52,3 +52,6 @@
 [submodule "visual-studio-code-bin"]
 	path = visual-studio-code-bin
 	url = https://aur.archlinux.org/visual-studio-code-bin.git
+[submodule "google-earth-pro"]
+	path = google-earth-pro
+	url = https://aur.archlinux.org/google-earth-pro.git
