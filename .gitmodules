@@ -1,9 +1,9 @@
 [submodule "pacbuild"]
 	path = pacbuild
-	url = github.com:j0057/pacbuild
+	url = https://github.com/j0057/pacbuild
 [submodule "vswitch"]
 	path = vswitch
-	url = github.com:j0057/vswitch
+	url = https://github.com/j0057/vswitch
 [submodule "fluent-bit"]
 	path = fluent-bit
 	url = https://aur.archlinux.org/fluent-bit.git
