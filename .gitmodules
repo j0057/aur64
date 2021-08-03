@@ -58,3 +58,6 @@
 [submodule "jo"]
 	path = jo
 	url = https://aur.archlinux.org/jo.git
+[submodule "gti"]
+	path = gti
+	url = https://aur.archlinux.org/gti.git
