@@ -55,3 +55,6 @@
 [submodule "google-earth-pro"]
 	path = google-earth-pro
 	url = https://aur.archlinux.org/google-earth-pro.git
+[submodule "jo"]
+	path = jo
+	url = https://aur.archlinux.org/jo.git
