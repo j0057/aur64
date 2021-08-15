@@ -64,3 +64,6 @@
 [submodule "omnisharp-roslyn"]
 	path = omnisharp-roslyn
 	url = https://aur.archlinux.org/omnisharp-roslyn.git
+[submodule "slack-desktop"]
+	path = slack-desktop
+	url = https://aur.archlinux.org/slack-desktop.git
