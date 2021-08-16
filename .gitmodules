@@ -76,3 +76,6 @@
 [submodule "hawknl-git"]
 	path = hawknl-git
 	url = https://aur.archlinux.org/hawknl-git.git
+[submodule "openlierox"]
+	path = openlierox
+	url = https://aur.archlinux.org/openlierox.git
