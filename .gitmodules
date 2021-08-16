@@ -73,3 +73,6 @@
 [submodule "microsoft-edge-beta-bin"]
 	path = microsoft-edge-beta-bin
 	url = https://aur.archlinux.org/microsoft-edge-beta-bin.git
+[submodule "hawknl-git"]
+	path = hawknl-git
+	url = https://aur.archlinux.org/hawknl-git.git
