@@ -79,3 +79,6 @@
 [submodule "openlierox"]
 	path = openlierox
 	url = https://aur.archlinux.org/openlierox.git
+[submodule "osh"]
+	path = osh
+	url = https://aur.archlinux.org/osh.git
