@@ -82,3 +82,6 @@
 [submodule "osh"]
 	path = osh
 	url = https://aur.archlinux.org/osh.git
+[submodule "code-marketplace"]
+	path = code-marketplace
+	url = https://aur.archlinux.org/code-marketplace.git
