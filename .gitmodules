@@ -88,3 +88,6 @@
 [submodule "code-features"]
 	path = code-features
 	url = https://aur.archlinux.org/code-features.git
+[submodule "code-icons"]
+	path = code-icons
+	url = https://aur.archlinux.org/code-icons.git
