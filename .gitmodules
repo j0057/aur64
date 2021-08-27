@@ -85,3 +85,6 @@
 [submodule "code-marketplace"]
 	path = code-marketplace
 	url = https://aur.archlinux.org/code-marketplace.git
+[submodule "code-features"]
+	path = code-features
+	url = https://aur.archlinux.org/code-features.git
