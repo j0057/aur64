@@ -94,3 +94,6 @@
 [submodule "pup"]
 	path = pup
 	url = https://aur.archlinux.org/pup.git
+[submodule "smcroute"]
+	path = smcroute
+	url = https://aur.archlinux.org/smcroute.git
