@@ -97,3 +97,6 @@
 [submodule "smcroute"]
 	path = smcroute
 	url = https://aur.archlinux.org/smcroute.git
+[submodule "sysz"]
+	path = sysz
+	url = https://aur.archlinux.org/sysz.git
