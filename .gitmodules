@@ -109,3 +109,6 @@
 [submodule "wdisplays"]
 	path = wdisplays
 	url = https://aur.archlinux.org/wdisplays.git
+[submodule "clipman"]
+	path = clipman
+	url = https://aur.archlinux.org/clipman.git
