@@ -106,3 +106,6 @@
 [submodule "sway-launcher-desktop"]
 	path = sway-launcher-desktop
 	url = https://aur.archlinux.org/sway-launcher-desktop.git
+[submodule "wdisplays"]
+	path = wdisplays
+	url = https://aur.archlinux.org/wdisplays.git
