@@ -115,3 +115,6 @@
 [submodule "way-displays"]
 	path = way-displays
 	url = https://aur.archlinux.org/way-displays.git
+[submodule "wev"]
+	path = wev
+	url = https://aur.archlinux.org/wev.git
