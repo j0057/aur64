@@ -112,3 +112,6 @@
 [submodule "clipman"]
 	path = clipman
 	url = https://aur.archlinux.org/clipman.git
+[submodule "way-displays"]
+	path = way-displays
+	url = https://aur.archlinux.org/way-displays.git
