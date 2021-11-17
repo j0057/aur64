@@ -127,3 +127,6 @@
 [submodule "grimshot"]
 	path = grimshot
 	url = https://aur.archlinux.org/grimshot.git
+[submodule "darkman"]
+	path = darkman
+	url = https://aur.archlinux.org/darkman.git
